@@ -26,7 +26,7 @@
     /* position:relative */;
 }
 .header {
-    background-image: linear-gradient(rgba(16,29,44,0.93),rgba(16,29,44,0.93)),url('hero.jpeg');
+    background-image: linear-gradient(rgba(16,29,44,0.93),rgba(16,29,44,0.93)),url('media/hero.jpeg');
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
@@ -222,7 +222,7 @@
     color: #fff;
 }
 .story-picture {
-    background-image: linear-gradient(rgba(240,178,100,0.5),rgba(240,178,100,0.5)), url('back.jpg');
+    background-image: linear-gradient(rgba(240,178,100,0.5),rgba(240,178,100,0.5)), url('media/back.jpg');
     background-size: cover;
 }
 .sub-story-pic div:first-child {
