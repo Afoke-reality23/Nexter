@@ -26,7 +26,7 @@
     /* position:relative */;
 }
 .header {
-    background-image: linear-gradient(rgba(16,29,44,0.93),rgba(16,29,44,0.93)),url('media/hero.jpeg');
+    background-image: linear-gradient(rgba(16,29,44,0.93),rgba(16,29,44,0.93)),url('../media/hero.jpeg');
     background-position-x: center;
     background-position-y: center;
     background-size: cover;
