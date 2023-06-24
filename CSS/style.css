@@ -222,7 +222,7 @@
     color: #fff;
 }
 .story-picture {
-    background-image: linear-gradient(rgba(240,178,100,0.5),rgba(240,178,100,0.5)), url('media/back.jpg');
+    background-image: linear-gradient(rgba(240,178,100,0.5),rgba(240,178,100,0.5)), url('../media/back.jpg');
     background-size: cover;
 }
 .sub-story-pic div:first-child {
